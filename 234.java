@@ -6,8 +6,8 @@ public class Main {
     if (age >= 18) {
       System.out.println("Old enough to vote.");
       
-  #    if (isCitizen) {
-   #     System.out.println("And you are a citizen, so you can vote!");
+      if (isCitizen) {
+        System.out.println("And you are a citizen, so you can vote!");
  #     } else {
   #      System.out.println("But you must be a citizen to vote.");
    #   }
