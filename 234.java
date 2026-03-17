@@ -11,8 +11,8 @@ public class Main {
       } else {
         System.out.println("But you must be a citizen to vote.");
       }
-    #} else {
- #     System.out.println("Not old enough to vote.");
+    } else {
+     System.out.println("Not old enough to vote.");
     }
   }
 }
